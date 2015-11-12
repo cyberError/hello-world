@@ -26,7 +26,7 @@ if(isset($_GET['name']) or isset($_POST['name'])){
 output_html($name);
 echo("Hello ".$name);
 }else{
-// If not echo Hello World
+// If not echo Hello World 
 output_html("World");
 echo("Hello World");
 }
