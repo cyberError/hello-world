@@ -5,7 +5,7 @@
 <meta name="author" content="CyberError"/>
 <?php 
 /*
- * Example of Hello World in python.
+ * Example of Hello World in php.
  * @author CyberError
  */
 // Form for inputing a name:
