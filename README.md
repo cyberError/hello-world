@@ -6,6 +6,7 @@ Currently present:
 -Python
 -PHP
 -C
+-Bash
 Comming Soon:
 -JavaScript
 -Ruby
