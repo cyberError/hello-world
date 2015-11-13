@@ -7,7 +7,7 @@ Currently present:
 -PHP
 -C
 -Bash
-Comming Soon:
 -JavaScript
--Ruby
+Comming Soon:
 -HTML
+-Ruby
