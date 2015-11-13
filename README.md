@@ -5,8 +5,8 @@ A set of more or less complicated hello-world programs in different computer lan
 Currently present:
 -Python
 -PHP
-Comming Soon:
 -C
+Comming Soon:
 -JavaScript
 -Ruby
 -HTML
