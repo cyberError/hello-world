@@ -1,6 +1,6 @@
 #!/bin/bash
 # script by CyberError
-# echo hello world
+# output hello world
 echo "Hello World"
 if [ -z "$1" ]
 # if there is no parameter passed ask for name
