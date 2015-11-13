@@ -1,4 +1,5 @@
 #include <stdio.h>
+//program by CyberError
 void hello();
 int main(int argc,char** argv){
 //most basic hello world.
