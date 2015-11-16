@@ -9,7 +9,7 @@ Currently present:
 -Bash
 -JavaScript
 -HTML
+-html5 Canvas
 Comming Soon:
 -jQuery
--html5 Canvas
 -Ruby
