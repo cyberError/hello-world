@@ -8,6 +8,8 @@ Currently present:
 -C
 -Bash
 -JavaScript
-Comming Soon:
 -HTML
+Comming Soon:
+-jQuery
+-html5 Canvas
 -Ruby
